@@ -1,4 +1,6 @@
 # Pratica01_UFJF
 
-Este repositório possui arquivos tex para produção do relatório técnico do Departamento de Ciência da Computação da UFJF. 
-Os arquivos foram migrados diretamente do Google Colab e outros upload normal via plataforma GIT.
+
+
+Este repositório contém todos os dados e funções necessários para reproduzir os resultados da tarefa prática do Departamento de Ciência da Computação da UFJF
+" Criação de imagem panorâmica utilizando algoritmos SIFT (Scale Invariant Feature Transform) e RANSAC (Random Sample Consenssus) "
