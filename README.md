@@ -1,4 +1,4 @@
-# Pratica01_UFJF
+#RANSAC_UFJF_Função_Pronta
 
 
 
