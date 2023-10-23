@@ -1,4 +1,4 @@
-#RANSAC_UFJF_Função_Pronta
+#RANSAC_UFJF_Function_Ready
 
 ----
 
